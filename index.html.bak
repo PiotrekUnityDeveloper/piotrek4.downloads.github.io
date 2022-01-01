@@ -265,7 +265,7 @@ tr:nth-child(even) {
 
 .container {
   width: 100%;
-  background-color: red;
+  background-color: gray;
 }
 
 .skills {
@@ -292,6 +292,10 @@ tr:nth-child(even) {
 <p>CRACK DEVELOPMENT PROGRESS</p>
 <div class="container">
   <div class="skills html">26% </div>
+</div>
+
+<div class="slidecontainer">
+  <input type="range" min="1" max="100" value="50" class="slider" id="myRange">
 </div>
 
 
