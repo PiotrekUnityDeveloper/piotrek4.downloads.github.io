@@ -152,7 +152,7 @@ img {vertical-align: middle;}
 }
 </style>
 
-<a align="center">
+<a align="center" href="info.txt" download="info.txt">
 <button class="btn"><i class="fa fa-download"></i> Download</button>
 </a>
 
